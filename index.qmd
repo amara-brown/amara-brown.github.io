@@ -2,7 +2,7 @@
 title: "amara-brown.github.io"
 ---
 
-This is a Quarto website.
+yello :D
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
