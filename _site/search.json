@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "amara-brown.github.io",
-    "section": "",
-    "text": "yello :D\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "(why did you pick your major, how u got here, what youre doing with it now/ future)"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is my resume!\nDownload PDF file."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amara Brown",
+    "section": "",
+    "text": "this is a link\n3rd year undergraduate at Chaminade University\nEnvironmental Science major"
+  },
+  {
+    "objectID": "index.html#this-is-an-h2-header",
+    "href": "index.html#this-is-an-h2-header",
+    "title": "Amara Brown",
+    "section": "",
+    "text": "this is a link\n3rd year undergraduate at Chaminade University\nEnvironmental Science major"
   }
 ]

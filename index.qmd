@@ -1,11 +1,24 @@
 ---
-title: "amara-brown.github.io"
+title: "Amara Brown"
+image: media/968CE63F-E35F-4514-AAA6-77B13B12366D-8877-0000045D24E2C49E.JPG
+toc: FALSE
+about:
+  template: solana
+  image-shape: rounded
+  links: 
+    - text: email
+      icon: envelope
+      href: amara.brown@student.chaminade.edu
 ---
 
-yello :D
+# this is an H1 header (#)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## this is an H2 header (##)
 
-```{r}
-1 + 1
-```
+### this is an H3 header (###)
+
+this is a [link](amara-brown.github.io)
+
+3rd year undergraduate at Chaminade University
+
+Environmental Science major

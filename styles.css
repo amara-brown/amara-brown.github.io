@@ -1,1 +1,28 @@
 /* css styles */
+a {
+  color: ;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: purple;
+}
+
+body, p {
+  background-color: #FFF0F5;
+}
+
+.navbar {
+  background-color: #F2C1D1;
+}
+
+.navbar-title {
+  color: #59260B;
+}
+
+.navbar-nav .nav-link {
+      color: #5B3256
+}

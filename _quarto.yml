@@ -4,10 +4,16 @@ project:
 website:
   title: "amara-brown.github.io"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+        
+    left: 
+      - icon: github
+        href: https://github.com/amara-brown
+        target: blank
 
 format:
   html:

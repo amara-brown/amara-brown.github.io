@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+(why did you pick your major, how u got here, what youre doing with it now/ future)
