@@ -1,5 +1,11 @@
 ---
 title: "About"
+image: media/fieldwork.pdf
+toc: FALSE
 ---
 
-(why did you pick your major, how u got here, what youre doing with it now/ future)
+# About me
+
+I grew up in Hawai'i surrounded by its unique ecosystems, which inspired my passion to protect them. I am currently studying Environmental Science at Chaminade University, where I've worked on projects and research about renewable energy, native species conservation, and sustainable community practices.
+
+## Interests

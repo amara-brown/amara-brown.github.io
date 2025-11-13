@@ -11,14 +11,4 @@ about:
       href: amara.brown@student.chaminade.edu
 ---
 
-# this is an H1 header (#)
-
-## this is an H2 header (##)
-
-### this is an H3 header (###)
-
-this is a [link](amara-brown.github.io)
-
-3rd year undergraduate at Chaminade University
-
-Environmental Science major
+Hi! I'm Amara, a 3rd year undergraduate Environmental Science major at Chaminade University of Hawaii. I am passionate about sustainability and how we affect the Earths health.
