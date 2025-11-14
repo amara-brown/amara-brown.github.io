@@ -4,8 +4,8 @@ image: media/fieldwork.pdf
 toc: FALSE
 ---
 
-# About me
+Growing up in Hawai'i surrounded by its unique ecosystems inspired my passion to protect them. I am currently studying Environmental Science at Chaminade University, where I've worked on projects and research about renewable energy, native species conservation, and sustainable community practices.
 
-I grew up in Hawai'i surrounded by its unique ecosystems, which inspired my passion to protect them. I am currently studying Environmental Science at Chaminade University, where I've worked on projects and research about renewable energy, native species conservation, and sustainable community practices.
+I've done studies about light pollution and it's affect on migratory birds
 
-## Interests
+![](media/Screenshot 2025-11-14 at 12.27.53 PM.png){width="40%"}
