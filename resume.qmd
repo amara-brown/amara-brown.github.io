@@ -4,4 +4,4 @@ title: "Resume"
 
 Here is my resume!
 
-{{< pdf media/amara-brown-resume.pdf width=100% height=800 >}}
+{{< pdf media/amarabrownpublicresume.docx.pdf width=100% height=800 >}}
