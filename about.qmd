@@ -4,8 +4,12 @@ image: media/fieldwork.pdf
 toc: FALSE
 ---
 
-Growing up in Hawai'i surrounded by its unique ecosystems inspired my passion to protect them. I am currently studying Environmental Science at Chaminade University, where I've worked on projects and research about renewable energy, native species conservation, and sustainable community practices.
+Growing up in Hawai'i surrounded by its unique ecosystems inspired my passion to protect them. I am currently studying Environmental Science at Chaminade University, where I grow my knowledge about natural sciences and my experience in the field.
 
-I've done studies about light pollution and it's affect on migratory birds
+## Experiences
+
+I've done studies about light pollution and it's affect on migratory birds, Hawai'i's water reservoir, and how the Earths spheres (biosphere, atomosphere, goesphere etc.) are connected.
 
 ![](media/fieldwork-screenshot.png){width="40%"}
+
+Here is some fieldwork I have done; a lab in which we worked to restore Hawai'i's wetlands. We checked things like turbidity, clarity, and salinity of the water. We are currently working on ways to replant ʻākulikuli (AKA Sea purslane) to reduce the salinity of the water in the wetlands, to hopefully aid in the health of the native Hawaiian plants and the 'Alae 'ula.

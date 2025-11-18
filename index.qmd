@@ -11,4 +11,8 @@ about:
       href: amara.brown@student.chaminade.edu
 ---
 
-Hi! I'm Amara, a 3rd year undergraduate Environmental Science major at Chaminade University of Hawaii. I am passionate about sustainability and how we affect the Earths health.
+### Hi! I'm Amara
+
+I'm a 3rd year undergraduate Environmental Science major at Chaminade University of Hawaii. I am passionate about sustainability and how we affect the Earths health.
+
+I am excited to follow this path and see where it takes me in the future!
