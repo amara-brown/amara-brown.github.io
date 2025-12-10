@@ -3,12 +3,14 @@ title: "Amara Brown"
 image: media/968CE63F-E35F-4514-AAA6-77B13B12366D-8877-0000045D24E2C49E.JPG
 toc: FALSE
 about:
-  template: solana
-  image-shape: rounded
+  template: jolla
   links: 
     - text: email
       icon: envelope
       href: amara.brown@student.chaminade.edu
+    - text: instagram
+      icon: instagram
+      href: instagram.com/sumiisako
 ---
 
 ### Hi! I'm Amara
