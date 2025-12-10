@@ -8,9 +8,9 @@ about:
     - text: email
       icon: envelope
       href: amara.brown@student.chaminade.edu
-    - text: instagram
-      icon: instagram
-      href: instagram.com/sumiisako
+    - text: final project
+      icon: suit-heart
+      href: https://amara-brown.github.io/final-dashboard-project/
 ---
 
 ### Hi! I'm Amara
